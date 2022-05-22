@@ -1,0 +1,53 @@
+{
+    "users": [
+        {
+            "id": 1,
+            "username": "John",
+            "email": "john@gmail.com",
+            "status": 0,
+            "transaction": 12.0
+        },
+        {
+            "id": 2,
+            "username": "David",
+            "email": "david@gmail.com",
+            "status": 1,
+            "transaction": 132.0
+        },
+        {
+            "id": 3,
+            "username": "Salina",
+            "email": "salina@gmail.com",
+            "status": 1,
+            "transaction": 112.0
+        },
+        {
+            "id": 4,
+            "username": "Vishwas",
+            "email": "vishwas@gmail.com",
+            "status": 0,
+            "transaction": 142.0
+        },
+        {
+            "id": 5,
+            "username": "Brad",
+            "email": "brad@gmail.com",
+            "status": 0,
+            "transaction": 33.0
+        },
+        {
+            "id": 6,
+            "username": "Brian",
+            "email": "brian@gmail.com",
+            "status": 1,
+            "transaction": 122.0
+        },
+        {
+            "id": 7,
+            "username": "Mat",
+            "email": "mat@gmail.com",
+            "status": 0,
+            "transaction": 23.0
+        }
+    ]
+}
